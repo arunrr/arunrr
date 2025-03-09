@@ -2,7 +2,7 @@ Hi, I'm Arun 👋🏾 👨🏻‍💻
 
 <img src="https://raw.githubusercontent.com/arunrr/arunrr/master/profile_github-header-image.png" alt="banner that says Arun R R - software developer">
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳 who is passionate in developing software solutions. Some technologies I enjoy working with include ReactJS, MERN stack (MongoDB + Express + ReactJS + NodeJS).
+I'm a Fullstack developer who is passionate in developing software solutions. Some technologies I enjoy working with include ReactJS, MERN stack (MongoDB + Express + ReactJS + NodeJS).
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arun-r-r) 
